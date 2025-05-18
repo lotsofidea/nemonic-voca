@@ -1,0 +1,10 @@
+# API 키 및 비밀
+config.js
+apiKeys.js
+
+# 개인 파일
+personal/
+
+# 스프레드시트 백업
+*.xlsx
+*.xls
